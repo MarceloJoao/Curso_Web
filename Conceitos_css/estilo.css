@@ -19,7 +19,7 @@
     width: 200px;
     height: 200px;
     margin: 10px;
-    float: right;
+    float: left;
 }
 
 .conteudo2{
@@ -28,4 +28,8 @@
     width: 150px;
     height: 150px;
     float: left;
+}
+
+.clear{
+    clear:left;
 }
